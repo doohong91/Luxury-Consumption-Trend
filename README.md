@@ -66,7 +66,11 @@
 > Youtube data API([링크](https://developers.google.com/youtube/v3/getting-started?hl=ko#resources))활용
 
 - 일간 이벤트 데이터
-  1. 인스타그램
+  1. 인스타그램 태그를 통해 이벤트 날짜 추정
+     1. 월급날짜
+     2. 축제 기간
+     3. 취업 기간
+     4. 등...
 
 > instagram API([링크](https://github.com/facebookarchive/python-instagram))
 
