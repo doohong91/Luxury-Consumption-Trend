@@ -4,124 +4,144 @@
 
 # EDA
 
+남성의류, 여성의류, 패션잡화, 화장품/뷰티케어에 해당하는 데이터들을 대상으로 함.
+
+## 데이터의 분포를 살펴보자
+
+
+
 ## Q. 명품을 가장 많이 소비하는 사람들은?
 
-- 나이
+### 나이
 
-  - 명품
+- 전체 상품과 마찬가지로 명품의 30대 비중이 가장 크다.
 
-  ![age](C:\Users\student\Documents\2018-19_Lpoint\EDA\img\age.JPG)
+- 하지만, 20대는 비율은 증가하고 40대 비율은 감소했다.
 
-  - 전체
+#### 명품
 
-  ![fage](C:\Users\student\Documents\2018-19_Lpoint\EDA\img\fage.JPG)
+![age](img\age.JPG)
 
-- 성별
+#### 전체
 
-  - 명품
+![fage](img\fage.JPG)
 
-  ![gender](C:\Users\student\Documents\2018-19_Lpoint\EDA\img\gender.JPG)
+### 성별
 
-  -  전체
+- 성별에 따른 명품과 전체상품 구매는 비슷한 패턴을 보인다. 
 
-  ![fgender](C:\Users\student\Documents\2018-19_Lpoint\EDA\img\fgender.JPG)
+#### 명품
 
-- 연령대 + 성별
+![gender](img\gender.JPG)
 
-  - 명품
+####  전체
 
-  ![age_gender](C:\Users\student\Documents\2018-19_Lpoint\EDA\img\age_gender.JPG)
+![fgender](img\fgender.JPG)
 
-  - 전체
+### 연령대 + 성별
 
-  ![fage_gender](C:\Users\student\Documents\2018-19_Lpoint\EDA\img\fage_gender.JPG)
+- 남성은 큰 차이를 보이지 않았고 여성의 구매에서 큰 차이를 보인다.
+
+- 20대, 40대에서 차이를 보인것은 여성 20대, 40대의 변화 때문으로 보인다.
+
+#### 명품
+
+![age_gender](img\age_gender.JPG)
+
+#### 전체
+
+![fage_gender](img\fage_gender.JPG)
 
 
 
 ## Q. 명품을 가장 많이 소비하는 지역은?
 
-- 지역
+### 지역
 
-  - 명품
+- 서울, 경기, 부산 순으로 구매가 많았다. 
 
-  ![location](C:\Users\student\Documents\2018-19_Lpoint\EDA\img\location.JPG)
+- 전체상품과 명품의 분포는 큰 차이가 없다.
 
-  - 전체
+#### 명품
 
-  ![flocation](C:\Users\student\Documents\2018-19_Lpoint\EDA\img\flocation.JPG)
+![location](img\location.JPG)
 
-- 지역 + 디바이스
+#### 전체
 
-  - 명품
+![flocation](img\flocation.JPG)
 
-  ![location_device](C:\Users\student\Documents\2018-19_Lpoint\EDA\img\location_device.JPG)
+### 지역 + 디바이스
 
-  - 전체
+#### 명품
 
-  ![flocation_device](C:\Users\student\Documents\2018-19_Lpoint\EDA\img\flocation_device.JPG)
+![location_device](img\location_device.JPG)
+
+#### 전체
+
+![flocation_device](img\flocation_device.JPG)
 
 
 
 ## Q.사람들은 어떤 카테고리의 명품을 가장 선호할까? 
 
-- 전체 카테고리
+### 대분류
 
-  - 명품
+- 화장품/뷰티케어의 비중이 크게 증가했다.
 
-  ![clac1_2](C:\Users\student\Documents\2018-19_Lpoint\EDA\img\clac1_2.JPG)
+#### 명품
 
-  - 전체
+![clac1](img\clac1.JPG)
 
-  ![f_clac1_2](C:\Users\student\Documents\2018-19_Lpoint\EDA\img\f_clac1_2.JPG)
+#### 전체
 
-- 대분류
+![fclac1](img\fclac1.JPG)
 
-  - 명품
+### 남성의류
 
-  ![clac1](C:\Users\student\Documents\2018-19_Lpoint\EDA\img\clac1.JPG)
+- 상의의 비중이 증가하고, 하의의 비중이 줄어들었다.
 
-  - 전체
+#### 명품
 
-  ![fclac1](C:\Users\student\Documents\2018-19_Lpoint\EDA\img\fclac1.JPG)
+![남성의류](img\남성의류.JPG)
 
-- 남성의류
+#### 전체
 
-  - 명품
+![f남성의류](img\f남성의류.JPG)
 
-  ![남성의류](C:\Users\student\Documents\2018-19_Lpoint\EDA\img\남성의류.JPG)
+### 여성의류
 
-  - 전체
+- 아우터의 비율이 증가하고 전신, 하의의 비율은 감소했다. 
 
-  ![f남성의류](C:\Users\student\Documents\2018-19_Lpoint\EDA\img\f남성의류.JPG)
+#### 명품
 
-- 여성의류
+![여성의류](img\여성의류.JPG)
 
-  - 명품
+#### 전체
 
-  ![여성의류](C:\Users\student\Documents\2018-19_Lpoint\EDA\img\여성의류.JPG)
+![f여성의류](img\f여성의류.JPG)
 
-  - 전체
+### 패션잡화
 
-  ![f여성의류](C:\Users\student\Documents\2018-19_Lpoint\EDA\img\f여성의류.JPG)
+- 여성화, 유아동화의 비율이 크게 감소하고, 여성가방,보석, 패션악세서리의 비율이 크게 증가했다.
 
-- 패션잡화
+#### 명품
 
-  - 명품
+![패션잡화](img\패션잡화.JPG)
 
-  ![패션잡화](C:\Users\student\Documents\2018-19_Lpoint\EDA\img\패션잡화.JPG)
+#### 전체
 
-  - 전체
-
-  ![f패션잡화](C:\Users\student\Documents\2018-19_Lpoint\EDA\img\f패션잡화.JPG)
+![f패션잡화](img\f패션잡화.JPG)
 
 - 화장품/뷰티케어
 
+  메이크업의 비율이 증가하고, 나머지의 비율이 전반적으로 감소했다.
+
   - 명품
 
-  ![화장품](C:\Users\student\Documents\2018-19_Lpoint\EDA\img\화장품.JPG)
+  ![화장품](img\화장품.JPG)
 
   - 전체
 
-  ![f화장품](C:\Users\student\Documents\2018-19_Lpoint\EDA\img\f화장품.JPG)
+  ![f화장품](img\f화장품.JPG)
 
 ## Q. 가장 많이 검색한 키워드는?
