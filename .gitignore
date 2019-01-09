@@ -2,4 +2,4 @@ data/
 *.docx
 *.pdf
 *.ini
-full_data.csv
+EDA/full_data.csv
