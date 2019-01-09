@@ -20,11 +20,11 @@
 
 #### 명품
 
-![age](.\img\age.JPG)
+![age](./img/age.JPG)
 
 #### 전체
 
-![fage](.\img\fage.JPG)
+![fage](./img/fage.JPG)
 
 ### 성별
 
@@ -32,11 +32,11 @@
 
 #### 명품
 
-![gender](.\img\gender.JPG)
+![gender](./img/gender.JPG)
 
 ####  전체
 
-![fgender](.\img\fgender.JPG)
+![fgender](./img/fgender.JPG)
 
 ### 연령대 + 성별
 
@@ -46,11 +46,11 @@
 
 #### 명품
 
-![age_gender](.\img\age_gender.JPG)
+![age_gender](./img/age_gender.JPG)
 
 #### 전체
 
-![fage_gender](.\img\fage_gender.JPG)
+![fage_gender](./img/fage_gender.JPG)
 
 
 
@@ -64,21 +64,21 @@
 
 #### 명품
 
-![location](.\img\location.JPG)
+![location](./img/location.JPG)
 
 #### 전체
 
-![flocation](.\img\flocation.JPG)
+![flocation](./img/flocation.JPG)
 
 ### 지역 + 디바이스
 
 #### 명품
 
-![location_device](.\img\location_device.JPG)
+![location_device](./img/location_device.JPG)
 
 #### 전체
 
-![flocation_device](.\img\flocation_device.JPG)
+![flocation_device](./img/flocation_device.JPG)
 
 
 
@@ -90,11 +90,11 @@
 
 #### 명품
 
-![clac1](.\img\clac1.JPG)
+![clac1](./img/clac1.JPG)
 
 #### 전체
 
-![fclac1](.\img\fclac1.JPG)
+![fclac1](./img/fclac1.JPG)
 
 ### 남성의류
 
@@ -102,11 +102,11 @@
 
 #### 명품
 
-![남성의류](.\img\남성의류.JPG)
+![남성의류](./img/남성의류.JPG)
 
 #### 전체
 
-![f남성의류](.\img\f남성의류.JPG)
+![f남성의류](./img/f남성의류.JPG)
 
 ### 여성의류
 
@@ -114,11 +114,11 @@
 
 #### 명품
 
-![여성의류](.\img\여성의류.JPG)
+![여성의류](./img/여성의류.JPG)
 
 #### 전체
 
-![f여성의류](.\img\f여성의류.JPG)
+![f여성의류](./img/f여성의류.JPG)
 
 ### 패션잡화
 
@@ -126,11 +126,11 @@
 
 #### 명품
 
-![패션잡화](.\img\패션잡화.JPG)
+![패션잡화](./img/패션잡화.JPG)
 
 #### 전체
 
-![f패션잡화](.\img\f패션잡화.JPG)
+![f패션잡화](./img/f패션잡화.JPG)
 
 - 화장품/뷰티케어
 
@@ -138,10 +138,10 @@
 
   - 명품
 
-  ![화장품](.\img\화장품.JPG)
+  ![화장품](./img/화장품.JPG)
 
   - 전체
 
-  ![f화장품](.\img\f화장품.JPG)
+  ![f화장품](./img/f화장품.JPG)
 
 ## Q. 가장 많이 검색한 키워드는?
